@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd:2.0.12
+FROM k8s.gcr.io/addon-resizer:1.8.3
 MAINTAINER hhitzhl <hhitzhl@gmail.com>
